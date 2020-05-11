@@ -24,3 +24,4 @@ D:\Project\Github\CryptoExample\CS.CryptoServiceProvider\obj\Debug\netcoreapp2.2
 D:\Project\Github\CryptoExample\CS.CryptoServiceProvider\obj\Debug\netcoreapp2.2\CS.CryptoServiceProvider.AssemblyInfo.cs
 D:\Project\Github\CryptoExample\CS.CryptoServiceProvider\obj\Debug\netcoreapp2.2\CS.CryptoServiceProvider.dll
 D:\Project\Github\CryptoExample\CS.CryptoServiceProvider\obj\Debug\netcoreapp2.2\CS.CryptoServiceProvider.pdb
+D:\Project\Github\CryptoExample\CS.CryptoServiceProvider\obj\Debug\netcoreapp2.2\CS.CryptoServiceProvider.csprojAssemblyReference.cache
