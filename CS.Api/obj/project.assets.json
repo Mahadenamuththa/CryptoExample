@@ -12968,11 +12968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Github\\CryptoSample\\CS.Api\\CS.Api.csproj",
+      "projectUniqueName": "D:\\Project\\Github\\CryptoExample\\CS.Api\\CS.Api.csproj",
       "projectName": "CS.Api",
-      "projectPath": "D:\\Project\\Github\\CryptoSample\\CS.Api\\CS.Api.csproj",
+      "projectPath": "D:\\Project\\Github\\CryptoExample\\CS.Api\\CS.Api.csproj",
       "packagesPath": "C:\\Users\\R3Z0R\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Github\\CryptoSample\\CS.Api\\obj\\",
+      "outputPath": "D:\\Project\\Github\\CryptoExample\\CS.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12991,8 +12991,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Project\\Github\\CryptoSample\\CS.CryptoServiceProvider\\CS.CryptoServiceProvider.csproj": {
-              "projectPath": "D:\\Project\\Github\\CryptoSample\\CS.CryptoServiceProvider\\CS.CryptoServiceProvider.csproj"
+            "D:\\Project\\Github\\CryptoExample\\CS.CryptoServiceProvider\\CS.CryptoServiceProvider.csproj": {
+              "projectPath": "D:\\Project\\Github\\CryptoExample\\CS.CryptoServiceProvider\\CS.CryptoServiceProvider.csproj"
             }
           }
         }
