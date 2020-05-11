@@ -1,0 +1,17 @@
+C:\Users\R3Z0R\source\repos\CryptoSample\CS.CryptoServiceProvider\bin\Debug\netcoreapp2.2\CS.CryptoServiceProvider.deps.json
+C:\Users\R3Z0R\source\repos\CryptoSample\CS.CryptoServiceProvider\bin\Debug\netcoreapp2.2\CS.CryptoServiceProvider.dll
+C:\Users\R3Z0R\source\repos\CryptoSample\CS.CryptoServiceProvider\bin\Debug\netcoreapp2.2\CS.CryptoServiceProvider.pdb
+C:\Users\R3Z0R\source\repos\CryptoSample\CS.CryptoServiceProvider\obj\Debug\netcoreapp2.2\CS.CryptoServiceProvider.csprojAssemblyReference.cache
+C:\Users\R3Z0R\source\repos\CryptoSample\CS.CryptoServiceProvider\obj\Debug\netcoreapp2.2\CS.CryptoServiceProvider.csproj.CoreCompileInputs.cache
+C:\Users\R3Z0R\source\repos\CryptoSample\CS.CryptoServiceProvider\obj\Debug\netcoreapp2.2\CS.CryptoServiceProvider.AssemblyInfoInputs.cache
+C:\Users\R3Z0R\source\repos\CryptoSample\CS.CryptoServiceProvider\obj\Debug\netcoreapp2.2\CS.CryptoServiceProvider.AssemblyInfo.cs
+C:\Users\R3Z0R\source\repos\CryptoSample\CS.CryptoServiceProvider\obj\Debug\netcoreapp2.2\CS.CryptoServiceProvider.dll
+C:\Users\R3Z0R\source\repos\CryptoSample\CS.CryptoServiceProvider\obj\Debug\netcoreapp2.2\CS.CryptoServiceProvider.pdb
+D:\Project\Github\CryptoSample\CS.CryptoServiceProvider\bin\Debug\netcoreapp2.2\CS.CryptoServiceProvider.deps.json
+D:\Project\Github\CryptoSample\CS.CryptoServiceProvider\bin\Debug\netcoreapp2.2\CS.CryptoServiceProvider.dll
+D:\Project\Github\CryptoSample\CS.CryptoServiceProvider\bin\Debug\netcoreapp2.2\CS.CryptoServiceProvider.pdb
+D:\Project\Github\CryptoSample\CS.CryptoServiceProvider\obj\Debug\netcoreapp2.2\CS.CryptoServiceProvider.csproj.CoreCompileInputs.cache
+D:\Project\Github\CryptoSample\CS.CryptoServiceProvider\obj\Debug\netcoreapp2.2\CS.CryptoServiceProvider.AssemblyInfoInputs.cache
+D:\Project\Github\CryptoSample\CS.CryptoServiceProvider\obj\Debug\netcoreapp2.2\CS.CryptoServiceProvider.AssemblyInfo.cs
+D:\Project\Github\CryptoSample\CS.CryptoServiceProvider\obj\Debug\netcoreapp2.2\CS.CryptoServiceProvider.dll
+D:\Project\Github\CryptoSample\CS.CryptoServiceProvider\obj\Debug\netcoreapp2.2\CS.CryptoServiceProvider.pdb
