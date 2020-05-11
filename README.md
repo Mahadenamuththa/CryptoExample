@@ -3,6 +3,10 @@
 
 # Cryptography
 
+[![Build status](https://ci.appveyor.com/api/projects/status/lyhgbhdhqyepj6xi/branch/master?svg=true)](https://ci.appveyor.com/project/Mahadenamuththa/CryptoExample/branch/master)
+
+[![Build history](https://buildstats.info/appveyor/chart/Mahadenamuththa/CryptoExample)](https://ci.appveyor.com/project/Mahadenamuththa/CryptoExample/history)
+
 Now, I’m going to take help of an example or a scenario to explain what is cryptography?
 
 Let’s say there’s a person named Andy. Now suppose Andy sends a message to his friend Sam who is on the other side of the world. Now obviously he wants this message to be private and nobody else should have access to the message. He uses a public forum, for example, WhatsApp for sending this message. The main goal is to secure this communication.
