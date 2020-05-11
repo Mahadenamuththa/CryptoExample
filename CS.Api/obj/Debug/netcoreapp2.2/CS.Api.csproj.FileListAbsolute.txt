@@ -1,0 +1,14 @@
+C:\Users\PasinduUmayanga\source\repos\CryptoSample\CS.Api\bin\Debug\netcoreapp2.2\CS.Api.deps.json
+C:\Users\PasinduUmayanga\source\repos\CryptoSample\CS.Api\bin\Debug\netcoreapp2.2\CS.Api.runtimeconfig.json
+C:\Users\PasinduUmayanga\source\repos\CryptoSample\CS.Api\bin\Debug\netcoreapp2.2\CS.Api.runtimeconfig.dev.json
+C:\Users\PasinduUmayanga\source\repos\CryptoSample\CS.Api\bin\Debug\netcoreapp2.2\CS.Api.dll
+C:\Users\PasinduUmayanga\source\repos\CryptoSample\CS.Api\bin\Debug\netcoreapp2.2\CS.Api.pdb
+C:\Users\PasinduUmayanga\source\repos\CryptoSample\CS.Api\obj\Debug\netcoreapp2.2\CS.Api.csprojAssemblyReference.cache
+C:\Users\PasinduUmayanga\source\repos\CryptoSample\CS.Api\obj\Debug\netcoreapp2.2\CS.Api.csproj.CoreCompileInputs.cache
+C:\Users\PasinduUmayanga\source\repos\CryptoSample\CS.Api\obj\Debug\netcoreapp2.2\CS.Api.RazorAssemblyInfo.cache
+C:\Users\PasinduUmayanga\source\repos\CryptoSample\CS.Api\obj\Debug\netcoreapp2.2\CS.Api.RazorAssemblyInfo.cs
+C:\Users\PasinduUmayanga\source\repos\CryptoSample\CS.Api\obj\Debug\netcoreapp2.2\CS.Api.AssemblyInfoInputs.cache
+C:\Users\PasinduUmayanga\source\repos\CryptoSample\CS.Api\obj\Debug\netcoreapp2.2\CS.Api.AssemblyInfo.cs
+C:\Users\PasinduUmayanga\source\repos\CryptoSample\CS.Api\obj\Debug\netcoreapp2.2\CS.Api.RazorTargetAssemblyInfo.cache
+C:\Users\PasinduUmayanga\source\repos\CryptoSample\CS.Api\obj\Debug\netcoreapp2.2\CS.Api.dll
+C:\Users\PasinduUmayanga\source\repos\CryptoSample\CS.Api\obj\Debug\netcoreapp2.2\CS.Api.pdb
