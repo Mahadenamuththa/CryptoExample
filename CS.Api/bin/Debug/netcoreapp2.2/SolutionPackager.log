@@ -1,0 +1,20 @@
+2020-05-11 15:33:31.678 - Info	
+Packing D:\Project\Github\CryptoExample\CS.Api\obj\Debug\netcoreapp2.2\ to bin\Debug\netcoreapp2.2\CS.Api.zip
+
+2020-05-11 15:33:31.692 - Error	Cannot find required file 'D:\Project\Github\CryptoExample\CS.Api\obj\Debug\netcoreapp2.2\Other\Customizations.xml'.
+2020-05-11 15:33:31.692 - Error	See log file 'bin\Debug\netcoreapp2.2\SolutionPackager.log' for details.
+2020-05-11 15:33:31.702 - Error	Microsoft.Crm.Tools.SolutionPackager.DiskReaderException: Cannot find required file 'D:\Project\Github\CryptoExample\CS.Api\obj\Debug\netcoreapp2.2\Other\Customizations.xml'.
+   at Microsoft.Crm.Tools.SolutionPackager.DiskReader.Load()
+   at Microsoft.Crm.Tools.SolutionPackager.SolutionPackager.Run(IPackageReader reader, IPackageWriter writer)
+   at Microsoft.Crm.Tools.SolutionPackager.SolutionPackager.Run()
+   at Microsoft.Crm.Tools.SolutionPackager.Program.Main(String[] args)
+2020-05-11 15:34:06.787 - Info	
+Packing D:\Project\Github\CryptoExample\CS.Api\obj\Debug\netcoreapp2.2\ to bin\Debug\netcoreapp2.2\CS.Api.zip
+
+2020-05-11 15:34:06.795 - Error	Cannot find required file 'D:\Project\Github\CryptoExample\CS.Api\obj\Debug\netcoreapp2.2\Other\Customizations.xml'.
+2020-05-11 15:34:06.795 - Error	See log file 'bin\Debug\netcoreapp2.2\SolutionPackager.log' for details.
+2020-05-11 15:34:06.798 - Error	Microsoft.Crm.Tools.SolutionPackager.DiskReaderException: Cannot find required file 'D:\Project\Github\CryptoExample\CS.Api\obj\Debug\netcoreapp2.2\Other\Customizations.xml'.
+   at Microsoft.Crm.Tools.SolutionPackager.DiskReader.Load()
+   at Microsoft.Crm.Tools.SolutionPackager.SolutionPackager.Run(IPackageReader reader, IPackageWriter writer)
+   at Microsoft.Crm.Tools.SolutionPackager.SolutionPackager.Run()
+   at Microsoft.Crm.Tools.SolutionPackager.Program.Main(String[] args)
